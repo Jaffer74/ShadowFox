@@ -4,7 +4,7 @@ This repository contains my completed **ShadowFox Android Development Tasks**, c
 
 ## 📌 Task Overview  
    - 🖼️ *Tasks:*  
-     ![Tasks](https://github.com/Jaffer74/ShadoxFox/blob/main/SimpleLoginApp/Untitled%20design.png) 
+     ![Tasks](https://github.com/Jaffer74/ShadoxFox/blob/main/Screenshot%202025-03-29%20164306.png) 
 
 ### 🟢 Beginner Level  
 1. **Simple Login Page (Redirect to Welcome Page)**  
