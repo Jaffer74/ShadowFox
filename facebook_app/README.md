@@ -1,6 +1,6 @@
-# Fogram - Social Media App
+# Facebook gram - Social Media App
 
-Fogram is an Android application that serves as a social media platform, similar to Facebook and Instagram. It offers features such as posting, stories, chatting, groups, Firebase Realtime Database integration, and push notifications.
+Facebook gram is an Android application that serves as a social media platform, similar to Facebook and Instagram. It offers features such as posting, stories, chatting, groups, Firebase Realtime Database integration, and push notifications.
 
 ## Table of Contents
 
