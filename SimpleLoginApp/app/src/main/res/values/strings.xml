@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleLoginApp</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="toggle_password_visibility">Toggle Password Visibility</string>
+</resources>
