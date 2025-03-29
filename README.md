@@ -3,6 +3,8 @@
 This repository contains my completed **ShadowFox Android Development Tasks**, categorized into **Beginner, Intermediate, and Advanced** levels. Each task focuses on improving Android development skills, including UI/UX design, API integration, and authentication handling.  
 
 ## 📌 Task Overview  
+   - 🖼️ *Tasks:*  
+     ![Tasks](https://github.com/Jaffer74/ShadoxFox/blob/main/SimpleLoginApp/Untitled%20design.png) 
 
 ### 🟢 Beginner Level  
 1. **Simple Login Page (Redirect to Welcome Page)**  
@@ -25,7 +27,7 @@ This repository contains my completed **ShadowFox Android Development Tasks**, c
    - Integrated a **Weather API** to fetch and display real-time weather forecasts.  
    - Designed an intuitive interface for users to view current weather conditions.  
    - Implemented **asynchronous data loading** for smooth performance.
-   ![Weather App](assets/weather_app.png)  
+   ![Weather App]([assets/weather_app.png](https://github.com/Jaffer74/ShadoxFox/blob/main/weather-forecast_app/Untitled%20design%20(3).png))  
 
 ### 🔴 Advanced Level  
 1. **Facebook Integration App (Login + Profile Picture & Post Sharing)**  
@@ -34,7 +36,7 @@ This repository contains my completed **ShadowFox Android Development Tasks**, c
    - Implemented **post-sharing functionality** for better social media engagement.  
    - Ensured secure handling of user data and smooth authentication flow.
    - 🖼️ *Screenshot:*  
-     ![Facebook Integration](assets/facebook_integration.png)  
+     ![Facebook Integration](https://github.com/Jaffer74/ShadoxFox/blob/main/facebook_app/Untitled%20design%20(4).png)  
 
 
 ## ⚙️ Technologies Used  
