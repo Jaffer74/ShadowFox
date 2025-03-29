@@ -17,7 +17,8 @@ This repository contains my completed **ShadowFox Android Development Tasks**, c
    - Ensured intuitive user interaction with a clean UI.  
    - Displayed real-time calculations for an enhanced user experience.
    - 🖼️ *Screenshot:*  
-     ![Calculator App](assets/calculator_app.png)  
+     ![Calculator App](https://github.com/Jaffer74/ShadoxFox/blob/main/Calculator_App/Untitled%20design%20(1).png)
+     ![Calculator App](https://github.com/Jaffer74/ShadoxFox/blob/main/Calculator_App/Untitled%20design%20(2).png)  
 
 ### 🔵 Intermediate Level  
 1. **Weather App with Forecast Display**  
