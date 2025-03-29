@@ -36,7 +36,7 @@ This repository contains my completed **ShadowFox Android Development Tasks**, c
    - Implemented **post-sharing functionality** for better social media engagement.  
    - Ensured secure handling of user data and smooth authentication flow.
    - 🖼️ *Screenshot:*  
-     ![Facebook Integration](https://github.com/Jaffer74/ShadoxFox/blob/main/facebook_app/Untitled%20design%20(4).png)  
+     ![Facebook Integration](https://github.com/Jaffer74/ShadoxFox/blob/main/facebook_app/Untitled%20design%20(6).png)  
 
 
 ## ⚙️ Technologies Used  
