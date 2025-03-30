@@ -109,9 +109,7 @@ Follow the Play Console guidelines to create a new release, upload the APK, and 
 
 Detailed information about the libraries and dependencies used in the project can be found in the [build.gradle](build.gradle) file.
 
-## Contributing
 
-Feel free to contribute to the development of Fogram by creating issues, submitting pull requests, or suggesting new features.
 
 ## License
 
