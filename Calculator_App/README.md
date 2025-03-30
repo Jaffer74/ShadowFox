@@ -12,10 +12,10 @@ A simple calculator application with basic arithmetic operations, featuring both
 ## Screenshots
 
 ### Light Theme
-![Light Theme](screenshots/light_theme.png)
+![Light Theme](https://github.com/Jaffer74/ShadowFox/blob/main/Calculator_App/Untitled%20design%20(2).png)
 
 ### Dark Theme
-![Dark Theme](screenshots/dark_theme.png)
+![Dark Theme](https://github.com/Jaffer74/ShadowFox/blob/main/Calculator_App/Untitled%20design%20(5).png)
 
 ## Installation
 
