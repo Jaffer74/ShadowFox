@@ -36,6 +36,10 @@ Facebook gram is an Android application that serves as a social media platform, 
 - Android Studio
 - Android device or emulator
 
+## Screenshots
+
+![App Screenshot](https://github.com/Jaffer74/ShadowFox/blob/main/facebook_app/Untitled%20design%20(6).png)
+
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/mohamedelareeg/Fogram.git`
