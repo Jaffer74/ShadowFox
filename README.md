@@ -1,7 +1,7 @@
 # 🚀 ShadowFox Android Development 
 This repository contains my completed **ShadowFox Android Development Projects**, categorized into **Beginner, Intermediate, and Advanced** levels. Each task focuses on improving Android development skills, including UI/UX design, API integration, and authentication handling.  
 
-## 📌 Task Overview  
+## 📌 Project Overview  
    - 🖼️ *Tasks:*  
      ![Tasks](https://github.com/Jaffer74/ShadoxFox/blob/main/Screenshot%202025-03-29%20164306.png) 
 
